@@ -25,7 +25,7 @@ import java.util.logging.Logger;
 
 public class SparkKafkaToDataset {
 
-	private static final String HADOOP_HOME_DIR_VALUE = "C:/winutils";
+	private static final String HADOOP_HOME_DIR_VALUE = "winutils";
 
 	// 'AU': ('Australia', (113.338953078, -43.63459726
 	//                      153.569469029, -10.6681857235))
